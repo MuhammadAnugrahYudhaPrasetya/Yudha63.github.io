@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>YUDHA</title>
+</head>
+<body>
+
+	<h1>About Me</h1>
+	<h2>Biodata 1.1</h2>
+	<ol type=a> 
+		<li>Muhammad Anugrah Yudha Prasetya</li>
+		<li>Bandung , 20 Juli 2002</li>
+		<li>Ciampea</li>
+	</ol>
+
+	<h2>Hobby</h2>
+	<p>Actually,<strong> I like watching some Animes and Sleep </strong>. Saya suka berada di kamar karna disana saya bisa banyak melakukan banyak hal diantaranya TIDUR, nonton, baca (bkn buku pelajaran tapinya). Jadi hobi saya adalah TIDUR karna diantara banyak hal yang sering saya lakukan adalah TIDUR. TIDUR memiliki banyak manfaat diantaranya dapat melupakan beberapa masalah yang terjadi dan menyenangkan. So my hobby is TIDUR.</p>
+	<img src="tidur_20170607_140503.jpg" width="300" height="200">
+	<img src="hobi.jpg" width="300" height="200">
+
+	<h2>Karya</h2>
+	<p> The Best <em>Mahakarya</em> that I create in 2019. Actually I create this for my computer task in <a href="http://www.smakbo.sch.id">SMAKBO</a> </p>
+	<img src="GIF - Muhammad Anugrah Yudha Prasetya - 17.63.08722 - XI.5.gif" width="300" height="200" >
+
+	<h2>Idola</h2>
+	<p> <strong>Robert Downey, Jr.</strong> ( Tony Stark as Iron Man ) </p>
+	<img src="Idola2.jpg" width="300" height="300">
+</body>
+</html>
