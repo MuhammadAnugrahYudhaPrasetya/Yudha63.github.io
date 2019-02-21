@@ -1,0 +1,44 @@
+body {background-color: #0b0b0b ;
+	background-image: url("black-simple-wallpaper-auto-desktop-background-computer.jpg") ;
+	background-repeat: no-repeat }
+
+div.container{
+	width: 100%;
+	border: 1px;
+
+}
+header, footer {
+	
+	color: white;
+	background:#00ffff;
+	clear: left;
+	padding: 0.5cm;
+	text-align: center;
+}
+
+nav {
+float:right;
+max-width:160px;
+height:1200px;
+margin:0;
+padding-right:50px;
+border-right:150px gainsboro;
+background: #0b0b0b ;
+text-align:left;
+}
+
+h1{
+	color: #00ffff;
+	text-align: center;
+	font-size: 70px
+	}
+
+li {color: #ffffff
+	}
+
+h2{
+	color: #ffffff
+	}
+p{
+	color: #ffffff
+	}
