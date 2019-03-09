@@ -1,6 +1,5 @@
 body {background-color: #0b0b0b ;
-	background-image: url("black-simple-wallpaper-auto-desktop-background-computer.jpg") ;
-	background-repeat: no-repeat }
+	 }
 
 div.container{
 	width: 100%;
@@ -19,26 +18,31 @@ header, footer {
 nav {
 float:right;
 max-width:160px;
-height:1200px;
+height:1000px;
 margin:0;
-padding-right:50px;
+padding-right:0px;
 border-right:150px gainsboro;
-background: #0b0b0b ;
+
 text-align:left;
 }
 
 h1{
-	color: #00ffff;
 	text-align: center;
 	font-size: 70px
 	}
 
-li {color: #ffffff
-	}
+
 
 h2{
 	color: #ffffff
 	}
+
+h4{
+	color: white;
+	font-size: 85px;
+	text-align: center
+	}
+
 p{
 	color: #ffffff
 	}
