@@ -9,7 +9,7 @@ div.container{
 header, footer {
 	
 	color: white;
-	background:#00ffff;
+	background:black;
 	clear: left;
 	padding: 0.5cm;
 	text-align: center;
@@ -31,7 +31,7 @@ h1{
 	font-size: 70px
 	}
 
-
+p.inset {border-style: inset;}
 
 h2{
 	color: #ffffff
